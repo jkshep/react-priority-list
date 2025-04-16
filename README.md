@@ -3,7 +3,7 @@
 This is a priority list/to-do list web page created using the React JavaScript Framework. Use it to keep track of the tasks you need to complete.
 All tasks are sorted by due date, so the highest priority tasks will be at the top of the list.
 ### How to use the Project
-1. Visit the [React Priority List Web Page](https://jkshep2.github.io/react-priority-list/dist/index.html)
+1. Visit the [React Priority List Web Page](https://jkshep.github.io/react-priority-list/dist/index.html)
 2. Enter a priority's name, a due date, and an expected amount of time to complete.
 3. Click the "Add" button to add the priority to the list. (If any fields are invalid, you will be prompted to fix them.)
 #### Categories
